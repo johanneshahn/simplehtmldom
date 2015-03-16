@@ -1,0 +1,21 @@
+{
+    "name": "eccn/yii2-simplehtmldom",
+    "description": "simplehtmldom wrapper",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johannes Hahn",
+            "email": "j.hahn@eccence.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "eccn\\simplehtmldom\\": ""
+        }
+    }
+}
